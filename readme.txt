@@ -8,20 +8,20 @@
 \pard\pardeftab720\sl360
 
 \f0\fs24 \cf2 \cb3 \expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 Git 
+Git 
 \f1\b \cf4 \expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec4 is
+is
 \f0\b0 \cf2 \expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2  a version control system.
+ a version control system.
 \f2 \expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \
+\
 
 \f0 \expnd0\expndtw0\kerning0
-\outl0\strokewidth0 Git 
+Git 
 \f1\b \cf4 \expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec4 is
+is
 \f0\b0 \cf2 \expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2  free software.
+ free software.
 \f2 \expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \
+\
 }
