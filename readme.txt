@@ -17,7 +17,7 @@ Git
 \f1\b \cf4 \expnd0\expndtw0\kerning0
 \outl0\strokewidth0 \strokec4 is
 \f0\b0 \cf2 \expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2  free software.
+\outl0\strokewidth0 \strokec2  free software distributed under the GPL.
 \f2 \expnd0\expndtw0\kerning0
 \outl0\strokewidth0 \
 }
